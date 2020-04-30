@@ -1,5 +1,5 @@
 # Desafio Aceleradev - módulo 1
-# Calculadora de Salário Líquido
+## Calculadora de Salário Líquido
 
 No Brasil, as pessoas que trabalham "com carteira assinada" (CLT) têm uma parte do seu *salário bruto (isto é, o salário integral, sem descontos)* retida pela empresa empregadora para o pagamento de alguns tributos, como, por exemplo, a Previdência Social (INSS) e o Imposto de Renda Retido na Fonte (IRRF). Após esse desconto, o valor que a pessoa contratada recebe é denominado **salário líquido**.
 
